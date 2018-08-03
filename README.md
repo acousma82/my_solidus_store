@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -22,3 +23,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+=======
+# my_solidus_store
+Demo Solidus App
+>>>>>>> 4a626875cb68034d76dd967d3643dc0c233428b3
