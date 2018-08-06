@@ -47,11 +47,11 @@ Spree.config do |config|
 end
 
 Spree::Frontend::Config.configure do |config|
-  config.locale = 'de'
+  config.locale = 'en'
 end
 
 Spree::Backend::Config.configure do |config|
-  config.locale = 'de'
+  config.locale = 'en'
 end
 
 Spree::Api::Config.configure do |config|
